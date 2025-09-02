@@ -2,7 +2,7 @@
 node_modules/
 
 # Build output
-main.js
+# main.js is needed for BRAT, so we include it
 main.js.map
 *.js.map
 
