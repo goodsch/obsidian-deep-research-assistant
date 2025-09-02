@@ -40,9 +40,20 @@ An AI-powered research assistant plugin for Obsidian that integrates deep resear
 - Node.js 16+ (for development)
 - An AI provider (Ollama recommended for local use)
 
-### From Release (Coming Soon)
-1. Download the latest release from GitHub
-2. Extract to your vault's `.obsidian/plugins/` directory
+### Install via BRAT (Beta Testing) - Recommended
+1. Install the [BRAT plugin](https://github.com/TfTHacker/obsidian42-brat)
+2. Enable BRAT in Obsidian Settings → Community Plugins
+3. Open BRAT settings (Settings → BRAT)
+4. Click "Add Beta Plugin"
+5. Enter this repository URL: `https://github.com/YOUR-USERNAME/obsidian-deep-research-assistant`
+6. Click "Add Plugin"
+7. Enable "Deep Research Assistant" in Settings → Community Plugins
+
+BRAT will automatically update the plugin when new commits are pushed to the main branch.
+
+### From Release
+1. Download the latest release from the [Releases page](https://github.com/YOUR-USERNAME/obsidian-deep-research-assistant/releases)
+2. Extract `main.js`, `manifest.json`, and `styles.css` to your vault's `.obsidian/plugins/deep-research-assistant/` directory
 3. Enable the plugin in Obsidian Settings → Community Plugins
 
 ### Development Installation

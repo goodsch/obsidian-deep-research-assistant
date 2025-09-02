@@ -1,0 +1,11 @@
+{
+	"id": "deep-research-assistant",
+	"name": "Deep Research Assistant (Beta)",
+	"version": "0.1.0-beta",
+	"minAppVersion": "0.15.0",
+	"description": "AI-powered research assistant that integrates deep research workflows directly into your Obsidian vault. (BETA VERSION)",
+	"author": "Your Name",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
